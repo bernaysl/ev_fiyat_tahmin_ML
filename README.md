@@ -1,1 +1,1 @@
-# ev_fiyat_tahmin_ML
+## Bu bir makine ogrenmesine giris calismasidir.
